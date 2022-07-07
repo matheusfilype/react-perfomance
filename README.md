@@ -27,3 +27,8 @@ export const ProductItem = memo(
 - Quando o componente re-renderiza muitas vezes com as MESMAS props
 - Em componentes médios ou grandes
 - Pure Functional Componentes
+
+## O que eu aprendi
+
+Aprendi mais sobre como deixar nossa aplicação mais performatica e como otimizar ela usando dynamic imports.
+Aprendi mais sobre alguns hooks (useMemo, useCallback e o memo) que podem ajudar na performance.
